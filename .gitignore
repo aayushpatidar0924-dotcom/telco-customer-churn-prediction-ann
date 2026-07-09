@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Model Files
+*.keras
+*.h5
+*.pkl
+
+# Environment
+.env
