@@ -164,7 +164,7 @@ streamlit run app.py
 
 # 📷 Application Preview
 
-![App](<images/app.mp4>)
+![App](<images/app.png>)
 
 ---
 
