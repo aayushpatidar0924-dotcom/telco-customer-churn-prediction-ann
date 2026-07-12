@@ -190,6 +190,8 @@ GitHub: https://github.com/aayushpatidar0924-dotcom
 
 LinkedIn: https://www.linkedin.com/in/aayush-patidar-56aa6530a/
 
+Live demo : https://telco-customer-churn-prediction-ann.streamlit.app/
+
 ---
 
 ## ⭐ If you like this project, don't forget to Star the repository.
