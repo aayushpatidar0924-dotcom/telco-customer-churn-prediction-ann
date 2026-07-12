@@ -12,10 +12,6 @@ __pycache__/
 # VS Code
 .vscode/
 
-# Model Files
-*.keras
-*.h5
-*.pkl
 
 # Environment
 .env
